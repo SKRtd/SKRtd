@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SKRtd
 - 👀 I’m interested in learning new things✨
-- 📖 I’m currently studying in computer engineering
+- 📖 I’m currently studying computer engineering
 
 
 <!---
